@@ -1,0 +1,113 @@
+[
+    {
+        "nombre": "Banca con constillas",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_01.png?raw=true",
+        "fotos": "https://picsum.photos/id/447/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Afiche Barrio Yungay",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_02.png?raw=true",
+        "fotos": "https://picsum.photos/id/137/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Revista Voces de la Araucanía",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2019",
+        "signo": "editorial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_03.png?raw=true",
+        "fotos": "https://picsum.photos/id/442/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Lilas en macro",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_05.png?raw=true",
+        "fotos": "https://picsum.photos/id/96/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Cartel Hágase la luz",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_07.png?raw=true",
+        "fotos": "https://picsum.photos/id/158/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Monograma",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_08.png?raw=true",
+        "fotos": "https://picsum.photos/id/180/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Tulilamp",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_09.png?raw=true",
+        "fotos": "https://picsum.photos/id/157/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Libro Aves Lafken Mapu",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2019",
+        "signo": "editorial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_010.png?raw=true",
+        "fotos": "https://picsum.photos/id/252/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Infografía Siete colores",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_04.png?raw=true",
+        "fotos": "https://picsum.photos/id/357/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Flamencos",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "fotografia",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_06.png?raw=true",
+        "fotos": "https://picsum.photos/id/146/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+
+    {
+        "nombre": "Logotipo para Nuevo Milenio",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2020",
+        "signo": "branding",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_012.png?raw=true",
+        "fotos": "https://picsum.photos/id/146/900/600",
+        "github": "https://github.com/franirribarrat"
+    },
+
+    {
+        "nombre": "Logotipo para Geoconstructora",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2023",
+        "signo": "branding",
+        "foto": "https://github.com/Franirribarrat/dno096-09/blob/main/portafolio_011.png?raw=true",
+        "fotos": "https://picsum.photos/id/146/900/600",
+        "github": "https://github.com/franirribarrat"
+    }
+]
+
